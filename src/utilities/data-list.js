@@ -6,6 +6,7 @@ const list = [
         town: 'Bogura',
         mobNO: '01445785802',
         salary: 50000,
+        img: 'https://ibb.co/L80G6kV'
     },
     {
         key: 2,
@@ -14,6 +15,7 @@ const list = [
         town: 'Bogura',
         mobNO: '01445778802',
         salary: 80000,
+        img: 'https://ibb.co/G2mQGw7'
     },
     {
         key: 3,
@@ -22,6 +24,7 @@ const list = [
         town: 'Chittagong',
         mobNO: '01412587402',
         salary: 90000,
+        img: 'https://ibb.co/JmGHjYM'
     },
     {
         key: 4,
@@ -30,6 +33,7 @@ const list = [
         town: 'Dhaka',
         mobNO: '01445897802',
         salary: 30000,
+        img: 'https://ibb.co/Lz07LVJ'
     },
     {
         key: 5,
@@ -38,6 +42,7 @@ const list = [
         town: 'Noakhali',
         mobNO: '0144570158',
         salary: 15000,
+        img: 'https://ibb.co/KhJK2BT'
     },
     {
         key: 6,
@@ -46,6 +51,7 @@ const list = [
         town: 'Bogura',
         mobNO: '01445586802',
         salary: 20000,
+        img: 'https://ibb.co/j6209xd'
     },
     {
         key: 7,
@@ -54,6 +60,7 @@ const list = [
         town: 'Dhaka',
         mobNO: '01445784736',
         salary: 30000,
+        img: 'https://ibb.co/7RjKfW5'
     },
     {
         key: 8,
@@ -62,6 +69,7 @@ const list = [
         town: 'Sherpur',
         mobNO: '01445740258',
         salary: 80000,
+        img: 'https://ibb.co/Q6MJKMf'
     },
     {
         key: 9,
@@ -70,6 +78,7 @@ const list = [
         town: 'Bogura',
         mobNO: '01445714325',
         salary: 18000,
+        img: 'https://ibb.co/BZXGSFv'
     },
     {
         key: 10,
@@ -78,6 +87,7 @@ const list = [
         town: 'Dhaka',
         mobNO: '01445781025',
         salary: 35000,
+        img: 'https://ibb.co/RQqjM4p'
     },
     {
         key: 11,
@@ -86,6 +96,7 @@ const list = [
         town: 'Noakhali',
         mobNO: '01445780247',
         salary: 30000,
+        img: 'https://ibb.co/Y379tvW'
     },
     {
         key: 12,
@@ -94,5 +105,6 @@ const list = [
         town: 'Dhaka',
         mobNO: '01401985802',
         salary: 30000,
+        img: 'https://ibb.co/fndykZm'
     },
 ]

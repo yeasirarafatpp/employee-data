@@ -1,0 +1,22 @@
+/* Single Card Design */
+.single-employee{
+    text-align: center;
+    padding: 15px;
+    border-radius: 8px;
+    border: 2px solid salmon;
+    background-color: aliceblue;
+}
+.single-employee h3, h5{
+    color: #01D1CC;
+}
+/* Button Design */
+.pay-btn{
+    background-color: seagreen;
+    padding: 10px 15px;
+    border: 2px solid #b4dbed;
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 30px;
+    cursor: pointer;
+}

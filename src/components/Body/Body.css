@@ -1,0 +1,18 @@
+/* css for container */
+.employee-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin: 0 80px;
+}
+
+/* Css for card */
+.employee-card{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 15px;
+}
+.employee-card div img {
+    height: 135px;
+    width: 135px;
+    border-radius: 50%;
+}
