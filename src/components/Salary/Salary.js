@@ -13,7 +13,7 @@ const Salary = (props) => {
         totalSalary = totalSalary + info.salary;
     }
     return (
-        <div>
+        <div className="salary">
             <h2>Employees Total Salary</h2>
             <h4>Salary Paid: {salary.length} Employee</h4>
             <p>Employee Name: {name}</p>
