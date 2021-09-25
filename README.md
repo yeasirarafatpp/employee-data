@@ -1,4 +1,10 @@
 # Getting Started with Create React App
+# Project Name: Employee Salary Sheet
+
+## What is in this application?
+* We can show all employee
+* We can pay them by this application
+* We have our total payment data
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
