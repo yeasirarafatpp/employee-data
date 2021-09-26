@@ -1,15 +1,10 @@
 import React from 'react';
-import { createElement } from 'react';
 import './Salary.css';
 
 const Salary = (props) => {
     const { salary } = props;
-    let name = '';
-    let Salary = 0;
     let totalSalary = 0;
     for (const info of salary) {
-        name = info.name;
-        Salary = info.salary;
         totalSalary = totalSalary + info.salary;
     }
     return (

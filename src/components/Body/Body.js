@@ -13,7 +13,7 @@ const Body = () => {
             .then(res => res.json())
             .then(data => setEmployees(data));
     }, []);
-
+    // Create a new array
     const paySalary = employee => {
         const newSalary = [...salary, employee];
         setSalary(newSalary);
