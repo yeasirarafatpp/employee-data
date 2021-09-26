@@ -16,8 +16,11 @@ const Salary = (props) => {
         <div className="salary">
             <h2>Employees Total Salary</h2>
             <h4>Salary Paid: {salary.length} Employee</h4>
-            <p>Employee Name: {name}</p>
-            <p>Salary: {Salary}</p>
+            <ul>
+                {salary.map(info => <li>Employee Name: {info.name}
+                    <br /> Employee Salary: {info.salary}
+                </li>)}
+            </ul>
             <p>Total Payment: {totalSalary}</p>
         </div>
     );
